@@ -13,7 +13,8 @@ from houses_detection import HousesDetectionBaseline
 from pools_detection import ColorPoolDetection
 
 
-def main(img_path='./data/Satellite test.png'):
+def main():
+    img_path="Satellite_test.png"
 
     # load image
     image = cv2.imread(img_path)  
