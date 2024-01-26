@@ -30,7 +30,7 @@ This phase involves identifying and delineating relevant features from the satel
 This process aligns cadastral plans with satellite images, incorporating feature detection, descriptor extraction, feature matching, and homography estimation.
 
 ### Pool/Houses Detection
-We approach pool detection based on their color, using the HSV (Hue-Saturation-Value) space and implementing the Ramer-Douglas-Peucker algorithm.
+We approach pool detection based on their color, using the HSV (Hue-Saturation-Value) space and using the Ramer-Douglas-Peucker algorithm.
 
 ### Fraud Detection Application
 The application analyzes discrepancies between cadastral plans and actual land use, employing dynamic map visualization and geospatial fraud analysis.
