@@ -42,7 +42,7 @@ The evaluation involved a comparative analysis of our method against human perfo
 The project demonstrates the feasibility of using traditional computer vision techniques for cadastral map updating and unauthorized structure detection, suggesting a cost-effective alternative to deep learning models.
 
 ## Figures
-Figures referenced in the report can be added here using markdown image syntax.
+Here are some images of the pipline
 
 ![Figure 1: Example of Cadastral Government Data](Images/Cad.PNG)
 ![Figure 2: Example of Satellite Images from Esri Library](Images/Sat.PNG)
