@@ -36,7 +36,7 @@ We approach pool detection based on their color, using the HSV (Hue-Saturation-V
 The application analyzes discrepancies between cadastral plans and actual land use, employing dynamic map visualization and geospatial fraud analysis.
 
 ## Evaluation
-The evaluation involved a comparative analysis of our method against human performance, assessing accuracy using pPrecision, Recall and F1-score metrics.
+The evaluation involved a comparative analysis of our method against human performance, assessing accuracy using Precision (60%), Recall (68%) and F1-score (64%) metrics.
 
 ## Conclusions
 The project demonstrates the feasibility of using traditional computer vision techniques for cadastral map updating and unauthorized structure detection, suggesting a cost-effective alternative to deep learning models.
