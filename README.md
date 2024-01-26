@@ -44,13 +44,11 @@ The project demonstrates the feasibility of using traditional computer vision te
 ## Figures
 Figures referenced in the report can be added here using markdown image syntax.
 
-![Figure 1: Example of Cadastral Government Data](Path_to_Figure_1.jpg)
-![Figure 2: Example of Satellite Images from Esri Library](Path_to_Figure_2.jpg)
-![Figure 3: Example of Fraud Detection Analysis](Path_to_Figure_3.jpg)
+![Figure 1: Example of Cadastral Government Data](Images/Cad.png)
+![Figure 2: Example of Satellite Images from Esri Library](Images/Sat.png)
+![Figure 3: Example of Fraud Detection Analysis](Images/cat_sat_pool.png)
 
 ## References
 - Ragia, L., Sarri, F., (2019). Automated Boundary and Feature Detection. 
 - Crommelinck, S., et al. (2017). Image Processing and Feature Detection.
-
-(Note: Replace "Path_to_Figure_X.jpg" with the actual paths to your figure images.)
 
